@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hotels</string>
+    <string name="string_address">"Address: "</string>
+    <string name="string_stars">"Stars: "</string>
+    <string name="string_distance">"Distance: "</string>
+    <string name="string_suites_av">"Suites availability: "</string>
+    <string name="image_url">https://raw.githubusercontent.com/iMofas/ios-android-test/master/</string>
+    <string name="image_url2">/iMofas/ios-android-test/master/</string>
+    <string name="string_lat">"Lat: "</string>
+    <string name="string_lon">"Lon: "</string>
+    <string name="sort_by_distance">Sort by distance</string>
+    <string name="sort_by_free_rooms">Sort by free rooms</string>
+    <string name="string_error">Error</string>
+    <string name="string_error_message">Try again later</string>
+    <string name="button_ok">OK</string>
+</resources>
